@@ -11,10 +11,11 @@
   O clone do site HBO Max serve como desafio para os alunos da plataforma testarem seus conhecimentos e colocarem em prática os recursos de HTML e CSS abordados nos cursos.
 </p>
 
-<h4 align="center">[Clique aqui ](https://dev-chenzo.github.io/layout-clone-hbomax/) para acessar o site.,</h4>
+<h4 align="center">Clique na imagem abaixo para acessar o site.</h4>
 
-
+<a href="https://dev-chenzo.github.io/layout-clone-hbomax/">
   <img src="assets/images/readme-images/cover-2.png">
+</a>
 
 
 ## 📎 Sumário
